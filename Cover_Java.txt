@@ -1,0 +1,28 @@
+Dear Sir / Madam,
+
+I would like to apply for the vacancy mentioned above. I feel I will be an excellent candidate as it closely matches my skills and experience:
+
+* 10+ years of Java; last 5+ years in high-volume distributed low-latency system development. Reactive programming with Raft distributed consensus algorithm.
+* 3+ years of Web UI development: HTML, CSS3, JavaScript: NodeJS, AngularJS.
+* 8+ years of Agile experience with Scrum and XP methodologies: Design Sessions, Pair Programming, Code Reviews. 
+* 10+ years in Test-Driven Development (TDD): Functional Testing, Unit Testing with jUnit/TestNG and Mockito/EasyMock. BDD with jBehave / Robot Framework / bespoke testing solutions. Performance Testing: microbenchmarks with JMH, throughput / latency tests with jMeter and bespoke solutions.
+* 10+ years of Object-Oriented Design (OOD), including Design Patterns and SOLID approaches. Documenting design with UML. 
+* 5+ years experience working in Banking and Finance with ION Trading and KPMG. Courses on Computational Investing and Financial Markets.
+* Team Leading and Principal Developer experience with full Project Life Cycle responsibility for 4+ years. Team members coaching and ad-hoc consultations.
+* 7+ years of total Spring (Spring Core, Spring Integration, Spring MVC, Spring Batch) experience, 2+ years of Hibernate, experience developing the project-specific O/R mapping framework.
+* 3+ years experience developing RESTful services.
+* 10+ years with RDBMSs, mostly Oracle and MySQL: database design, SQL query tuning, PL/SQL development, ETL, Data Visualization and Data Presentation.
+* 5+ years of Continuous Integration with Jenkins, some experience using Thoughtworks Go. Release Management with Maven and Ant.
+* 2+ years experience working with BPM / BPEL (jBPM, Activity).
+* working skills in SVN/Subversion, Git, Perforce.
+* experience in analysis and implementation of advanced algorithms and data structures.
+* exposure to non-Java JVM languages: Scala, Clojure, Groovy. 2+ years using .NET (C#). Data Manipulation and Machine Learning with Python (sklearn/pandas/numpy).
+* ability to articulate IT - related issue with non-tech business partners and stakeholders
+
+Thank you for your time and consideration. Please find a copy of my CV attached.
+
+Looking forward to hearing from you,
+Yaroslav Lyakh
++44 (0)7501 301536
+yara.lyakh@gmail.com
+L_yara@bigmir.net

@@ -1,0 +1,27 @@
+Dear Sir / Madam,
+
+I feel I will be an excellent candidate for the above vacancy as it closely matches my skills and experience:
+
+* 10+ years of Java; last 5+ years in high-volume distributed low-latency system development. Reactive programming with Raft distributed consensus algorithm.
+* exposure to non-Java JVM languages: Scala (completed cousres like "Functional Programming with Scala", "Reactive Programming with Scala and Akka"; old member of London Scala User Group - LSUG), Clojure (active memeber of London Clojurians group), Groovy. 
+* 2+ years using .NET (C#). 
+* 8+ years of Agile experience with Test-Driven Development (TDD): jUnit/TestNG and Mockito/EasyMock. BDD with jBehave / Robot Framework / bespoke testing solutions. Performance Testing: microbenchmarks with JMH, throughput / latency tests with jMeter. Pair Programming, SCRUM and XP methodologies.
+* 10+ years with RDBMSs, mostly Oracle and MySQL: database design, SQL query tuning, PL/SQL development, ETL, Data Visualization and Data Presentation.
+* Skills in Data Manipulation and Machine Learning with Python (sklearn/pandas/numpy).
+* Team Leading experience for 4+ years. Team members coaching and ad-hoc consultations.
+* 7+ years of total Spring (Spring Core, Spring Integration, Spring MVC, Spring Batch) experience, 2+ years of Hibernate, experience developing the project-specific O/R mapping framework. 2+ years experience using Velocity template engine.
+* 3+ years experience developing RESTful services.
+* 5+ years of Continuous Integration with Jenkins, some experience using Thoughtworks Go. Release Management with Maven and Ant.
+* 2+ years experience working with BPM / BPEL (jBPM, Activity).
+* working skills in SVN/Subversion, Git, Perforce.
+* experience working in Finance with KPMG; ION Trading.
+* experience using non-standard algorithms and data structures.
+* ability to articulate IT - related issue with non-tech business partners and stakeholders
+
+Thank you for your time and consideration. Please find a copy of my CV attached to this email.
+
+Looking forward to hearing from you,
+Yaroslav Lyakh
++44 (0)7501 301536
+yara.lyakh@gmail.com
+L_yara@bigmir.net
